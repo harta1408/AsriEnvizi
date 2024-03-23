@@ -1,4 +1,4 @@
-# IBM ENVIZI Training By Agile Solution
+# IBM ENVIZI Training By Agile
 
 ## Envizi
 
@@ -150,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDA5MTg4Nl19
+eyJoaXN0b3J5IjpbLTc1MDUwMjA2NSwtNDQ0MDkxODg2XX0=
 -->
