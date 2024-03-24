@@ -1,22 +1,4 @@
-# IBM ENVIZI Training By Agile
-
-## Envizi
-
-Envizi adalah aplikasi pengelola dan analisa terhadap data **ESG** (Envitonmental, Social an Govermence) atau Tata Kelola Sosial dan Perusahaan yang dikembangkan oleh IBM. 
-IBM Envizi ESG Suite mengkonsolidasikan data ESG perusahaan untuk analisa dan pelaporan.  IBM Envizi mampu menghlangkan tantangan dan kerumitan pengumpulan, analisis, dan pelaporan data ESG sehingga Anda dapar memanfaatkan kekuatan data tersebut
-
-## ASRI
-ASRI atau Agile Suistanability Report and Information adalah produk yang dikembangkan 
-
-## AGILE
-PT Anagile Kharisma Utama atau dikenal dengan Agile, merupakan BP (Business Partner) IBM 
-
-
-
-
-
-
-
+# Envizi Workshop Plan
 
 <table>
     <thead>
