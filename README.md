@@ -3,24 +3,20 @@
 ## Envizi
 
 Envizi adalah aplikasi pengelola dan analisa terhadap data **ESG** (Envitonmental, Social an Govermence) atau Tata Kelola Sosial dan Perusahaan yang dikembangkan oleh IBM. 
-IBM Envizi ESG Suite mengkonsolidasikan data ESG perusahaan untuk analisa dan pelaporan.  IBM Envizi mampu menghlangkan tantangan dan kerumitan pengumpulan, analisis, dan pelaporan data ESG sehingga Anda dapar memanfaatkan kekuatan data tersebut
+IBM Envizi ESG Suite mengkonsolidasikan data ESG perusahaan untuk analisa dan pelaporan.  IBM Envizi mampu menghlangkan tantangan dan kerumitan pengumpulan, analisis, dan pelaporan data ESG sehingga Anda dapar memanfaatkan kekuatan data tersebut untuk lebih banyak memahami IBM Envizi misa mengunjungi <a href="https://knowledgebase.envizi.com/home/">Envizi Knowledgebase</a>
 
 ## ASRI
-ASRI atau Agile Suistanability Report and Information adalah produk yang dikembangkan 
+ASRI atau Agile Suistanability Report and Information adalah produk dari <a href="https://agile.co.id">Agile (PT. Anagile Kharisma Utama)</a> dalam rangka mempemudah bagi perusahaan yang ingin menggunakan IBM Envizi dengan harga yang lebih terjangkau.  Informasi lanjut mengenai Asri bisa mengungjungi <a href="https://asri.agile.co.id">Website Asri</a>
 
 ## AGILE
-PT Anagile Kharisma Utama atau dikenal dengan Agile, merupakan BP (Business Partner) IBM 
+<a href="https://agile.co.id">PT. Anagile Kharisma Utama</a> atau dikenal dengan Agile Solution, merupakan BP (Business Partner) IBM, dan dipercaya IBM untuk memasarkan berbagai produk seperti IBM Envizi, Maximo dsb.
 
 
-
-
-
-
-
+## Rencana Pelatihan Envizi
 
 <table>
     <thead>
-        <th>S.No</th>
+        <th>No</th>
         <th>Type</th>
         <th>Title</th>
         <th>Desc</th>
