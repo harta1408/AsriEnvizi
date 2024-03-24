@@ -36,57 +36,49 @@ ASRI atau Agile Suistanability Report and Information adalah produk dari <a href
     <tr>
         <td>2</td>
         <td>Session</td>
-        <td>Overview of Sustainability & Envizi + Modules</td>
-        <td>Introductions to Envizi | Various modules | Value proposition </td>
+        <td>Welcome to Sutainability World</td>
+        <td>Apa itu ESG, bagaimana dunia Industi Menyikapinya</td>
         <td>45 mins</td>
         <td></td>
     </tr>
     <tr>
         <td>3</td>
         <td>Session</td>
-        <td>Resources</td>
-        <td>Seismic | Demo Corp Access | IBM APAC Access</td>
-        <td>30 mins</td>
+        <td>Envizi IBM & ASRI</td>
+        <td>Mengenalkan Envizi & ASRI dan Modul apa saja yang ada didalamnya</td>
+        <td>45 mins</td>
         <td></td>
     </tr>
     <tr>
         <td>4</td>
         <td>Session</td>
-        <td>Introduction to Organization structure in Envizi</td>
-        <td></td>
-        <td>30 mins</td>
-        <td></td>        
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>Session</td>
-        <td>Scope 1 & 2 Emission Management - Show & Tell</td>
-        <td>Dashboards | RECs | Location & Market based emissions | Carbon offsets  </td>
-        <td>30 mins</td>
+        <td>Scope 1 & 2 Emission Management (Bag 1)</td>
+        <td>Apa saja Cakupan Emisi 1 & 2  </td>
+        <td>45 mins</td>
         <td></td>
     </tr>    
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
     </tr>
         <tr>
-        <td>6</td>
+        <td>5</td>
         <td>Session</td>
-        <td>Scope 1 & 2 Emission Management - Show & Tell continued</td>
-        <td>Dashboards | RECs | Location & Market based emissions | Carbon offsets  </td>
+        <td>Scope 1 & 2 Emission Management (Bag 2)</td>
+        <td>Apa saja Cakupan Emisi 1 & 2  </td>
         <td>30 mins</td>
         <td></td>
     </tr>   
     </tr>
         <tr>
-        <td>7</td>
+        <td>6</td>
         <td>Session</td>
-        <td>Scope  3 Emission Management - Show & Tell</td>
-        <td>Dashboards & Power Reports | Custom Emission Factors | Financed Emissions | Virtual Accounts </td>
+        <td>Scope  3 Emission Management </td>
+        <td>Apa saja Cakupan Emisi 3 </td>
         <td>60 mins</td>
         <td></td>
     </tr>       
     <tr>
-        <td>8</td>
+        <td>7</td>
         <td>Session</td>
         <td>New Envizi Capabilities</td>
         <td>Scope 3 AI Assist | Account Style Wizards</td>
@@ -94,29 +86,21 @@ ASRI atau Agile Suistanability Report and Information adalah produk dari <a href
         <td></td>
     </tr>    
     <tr>
-        <td>9</td>
+        <td>8</td>
         <td>KUIS</td>
         <td>KUIS</td>
         <td></td>
         <td>15 mins</td>
         <td></td>
-    </tr>
+    </tr>   
     <tr>
-        <td>10</td>
-        <td>Socializing</td>
-        <td>Icebreaker, Networking and QA</td>
-        <td></td>
-        <td>60 mins</td>
-        <td></td>
-    </tr>    
-    <tr>
-        <td colspan="6"> .......................................................................................... <strong>DAY 2</strong> ..........................................................................................<td>
+        <td colspan="6"> .......................................................................................... <strong>HARI KEDUA</strong> ..........................................................................................<td>
     </tr>  
     <tr>
         <td>1</td>
         <td>Session</td>
         <td>ESG Reporting</td>
-        <td>Reports & Dashboards | Sustainability Reporting Manager (SRM) </td>
+        <td>Pentingnya Laporan ESG dan Hubungannya dengan Regulasi Pemerintah Indonesia </td>
         <td>45 mins</td>
         <td></td>
     </tr>    
@@ -124,14 +108,14 @@ ASRI atau Agile Suistanability Report and Information adalah produk dari <a href
         <td>2</td>
         <td>Session</td>
         <td>Sustainability Targets & Programs </td>
-        <td>Traget Setting & Tracking | Program Tracking | Scenario Modeller </td>
+        <td>Penentuan Target dan Program Sustainability agar efektif</td>
         <td>45 mins</td>
         <td></td>
     </tr>   
     <tr>
         <td>3</td>
         <td>Session</td>
-        <td>Advanced Modules </td>
+        <td>Modul Lanjutan </td>
         <td>Building ratings and benchmarks | Value chain surveys and assessments | Interval Meters | Utility Analytics </td>
         <td>45 mins</td>
         <td></td>
