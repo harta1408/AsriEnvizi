@@ -10,7 +10,6 @@ ASRI atau Agile Suistanability Report and Information adalah produk dari <a href
 ## AGILE
 <a href="https://agile.co.id">PT. Anagile Kharisma Utama</a> atau dikenal dengan Agile Solution, merupakan BP (Business Partner) IBM, dan dipercaya IBM untuk memasarkan berbagai produk seperti IBM Envizi, Maximo dsb.
 
-
 ## Rencana Pelatihan Envizi
 
 <table>
