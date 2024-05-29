@@ -294,7 +294,7 @@ ASRI atau Agile Suistanability Report and Information adalah produk dari <a href
         <td>2</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
-        <td>Leveraging Envizi DataFlow AWS Service to ingest the data files automatically</td>
+        <td>Leveraging Envizi DataFlow AWS S3 Service to ingest the data files automatically</td>
         <td>45 mins</td>
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
    </tr>     
