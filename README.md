@@ -7,6 +7,9 @@ IBM Envizi ESG Suite mengkonsolidasikan data ESG perusahaan untuk analisa dan pe
 ## ASRI
 ASRI atau Agile Suistanability Report and Information adalah produk dari <a href="https://agile.co.id">Agile (PT. Anagile Kharisma Utama)</a> dalam rangka mempemudah bagi perusahaan yang ingin menggunakan IBM Envizi dengan harga yang lebih terjangkau.  Informasi lanjut mengenai Asri bisa mengungjungi <a href="https://asri.agile.co.id">Website Asri</a>
 
+## ASRI CONNECT
+ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data kedalam sistem IBM Envizi, ASRI Connect memberikan kemudahan upload data dari file xls, input data dengan berbagai level atau tinggkatan.  Dimana melalui level dan tingkatan akses ini, terjadi pengawasan terhadap data yang di masukan kedalam Emvizi.
+
 ## AGILE
 <a href="https://agile.co.id">PT. Anagile Kharisma Utama</a> atau dikenal dengan Agile Solution, merupakan BP (Business Partner) IBM, dan dipercaya IBM untuk memasarkan berbagai produk seperti IBM Envizi, Maximo dsb.
 
