@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6bb8f48c-493d-4f7b-b859-8f36955a6471)![image](https://github.com/user-attachments/assets/96b1253f-44ea-4d93-92cd-8db84cc3e503)# IBM ENVIZI Training By Agile
+![image](https://github.com/user-attachments/assets/bf031ba5-05fa-42bb-ac86-44759929a2fe)![image](https://github.com/user-attachments/assets/6bb8f48c-493d-4f7b-b859-8f36955a6471)![image](https://github.com/user-attachments/assets/96b1253f-44ea-4d93-92cd-8db84cc3e503)# IBM ENVIZI Training By Agile
 
 ## Envizi
 Envizi adalah aplikasi pengelola dan analisa terhadap data **ESG** (Envitonmental, Social an Govermence) atau Tata Kelola Sosial dan Perusahaan yang dikembangkan oleh IBM. 
@@ -78,15 +78,31 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
         <td>60 mins</td>
         <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
-    </tr>       
-    <tr>
+    </tr>     
+        <tr>
         <td>7</td>
+        <td>BREAK</td>
+        <td></td>
+        <td></td>
+        <td>15 mins</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>8</td>
         <td>Session</td>
-        <td>New Envizi Capabilities</td>
-        <td>Scope 3 AI Assist | Account Style Wizards</td>
-        <td>45 mins</td>
+        <td>Overview of Config Connector</td>
+        <td>Deep dive on Config connector and using the template</td>
+        <td>15 mins</td>
         <td></td>
     </tr>    
+        <tr>
+        <td>9</td>
+        <td><b>Lab 2.0</b></td>
+        <td>Create Groups and Locations Using Config Connector</td>
+        <td>Create the Organization Hierarchy using the template - Config Connector</td>
+        <td>45 mins</td>
+        <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
+    </tr>  
     <tr>
         <td>8</td>
         <td>KUIS</td>
