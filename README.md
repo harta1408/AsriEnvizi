@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96b1253f-44ea-4d93-92cd-8db84cc3e503)# IBM ENVIZI Training By Agile
+![image](https://github.com/user-attachments/assets/6bb8f48c-493d-4f7b-b859-8f36955a6471)![image](https://github.com/user-attachments/assets/96b1253f-44ea-4d93-92cd-8db84cc3e503)# IBM ENVIZI Training By Agile
 
 ## Envizi
 Envizi adalah aplikasi pengelola dan analisa terhadap data **ESG** (Envitonmental, Social an Govermence) atau Tata Kelola Sosial dan Perusahaan yang dikembangkan oleh IBM. 
@@ -73,11 +73,11 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr>
         <tr>
         <td>6</td>
-        <td>Session</td>
-        <td>Scope  3 Emission Management </td>
-        <td>Apa saja Cakupan Emisi 3 </td>
-        <td>60 mins</td>
+        <td><b>Lab 1.1</b></td>
+        <td>Create Groups, Locations, Account and load Data using UI</td>
         <td></td>
+        <td>60 mins</td>
+        <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
     </tr>       
     <tr>
         <td>7</td>
