@@ -1,4 +1,4 @@
-# IBM ENVIZI Training By Agile
+![image](https://github.com/user-attachments/assets/96b1253f-44ea-4d93-92cd-8db84cc3e503)# IBM ENVIZI Training By Agile
 
 ## Envizi
 Envizi adalah aplikasi pengelola dan analisa terhadap data **ESG** (Envitonmental, Social an Govermence) atau Tata Kelola Sosial dan Perusahaan yang dikembangkan oleh IBM. 
@@ -65,10 +65,10 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     <tr>
         <td>5</td>
         <td>Session</td>
-        <td>Scope 1 & 2 Emission Management (Bag 2)</td>
-        <td>Apa saja Cakupan Emisi 1 & 2  </td>
+        <td>Identify Industry specific Org hierarchy using the template provided</td>
+        <td>Provide a sample org hierarchy and ask the team to understand how should organization hierarchy generally looks like</td>
         <td>30 mins</td>
-        <td></td>
+        <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
     </tr>   
     </tr>
         <tr>
