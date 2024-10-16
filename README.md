@@ -117,9 +117,9 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     <tr>
         <td>1</td>
         <td>Session</td>
-        <td>ESG Reporting</td>
-        <td>Pentingnya Laporan ESG dan Hubungannya dengan Regulasi Pemerintah Indonesia </td>
-        <td>45 mins</td>
+        <td>Overview of Universal Account Connector</td>
+        <td>Understand the concepts of Data loading template and connector to load the data into Envizi</td>
+        <td>60 mins</td>
         <td></td>
     </tr>    
     <tr>
