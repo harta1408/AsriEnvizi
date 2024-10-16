@@ -30,39 +30,39 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     <tr>
         <td>1</td>
         <td>Session</td>
-        <td>Overview Pelatihan/ Jadwal / Praktek</td>
-        <td>Menjelaskan teknis pelaksanaan Pelatihan, mulai dari Jadwal, Agenda, Praktek, Kuis dan Aplikasi yang digunakan</td>
+        <td>Opening Season</td>
+        <td>Opening Season Training Envizi</td>
         <td>30 menit</td>
         <td></td>
     </tr>
     <tr>
         <td>2</td>
         <td>Session</td>
-        <td>Welcome to Sutainability World</td>
-        <td>Apa itu ESG, bagaimana dunia Industi Menyikapinya</td>
+        <td>Overview of Sustainability & Envizi + Modules</td>
+        <td>Gambaran Umum Sustrainability pada Sistem Envizi dan Modul Apa saja yang ada dalam Envizi</td>
         <td>45 mins</td>
         <td></td>
     </tr>
     <tr>
         <td>3</td>
         <td>Session</td>
-        <td>Envizi IBM & ASRI</td>
-        <td>Mengenalkan Envizi & ASRI dan Modul apa saja yang ada didalamnya</td>
+        <td>Exploring Envizi</td>
+        <td>Mengenal Dashboard Envizi, Laporan dan Power Report </td>
         <td>45 mins</td>
         <td></td>
+    </tr>   
+    <tr>
+        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
     </tr>
     <tr>
         <td>4</td>
         <td>Session</td>
-        <td>Scope 1 & 2 Emission Management (Bag 1)</td>
-        <td>Apa saja Cakupan Emisi 1 & 2  </td>
-        <td>45 mins</td>
+        <td>Data Management Overview</td>
+        <td>Groups, Locations & Account (Account Styles)</td>
+        <td>30 mins</td>
         <td></td>
-    </tr>    
+    </tr> 
     <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
-    </tr>
-        <tr>
         <td>5</td>
         <td>Session</td>
         <td>Scope 1 & 2 Emission Management (Bag 2)</td>
