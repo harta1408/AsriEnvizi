@@ -151,60 +151,28 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr> 
     <tr>
         <td>5</td>
-        <td>Session</td>
-        <td>Data flow automation in Envizi</td>
-        <td></td>
-        <td>30 mins</td>
+        <td><b>Lab 4.1</b></td>
+        <td>Loading Scope 3 Category 1 data using AU Assist</td>
+        <td>Using AI Assist feature to ingest Scope 3 Purchased Good Data</td>
+        <td>60 mins</td>
         <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>
        <tr>
         <td>6</td>
         <td>Session</td>
-        <td>Integrating Envizi with external Systems</td>
-        <td>Integrating with external systems. Turbonomic Dashboards | Maximo Data Modeling | Tririga Data Modeling | Envizi Integration Hub</td>
-        <td>15 mins</td>
-        <td><a href="./151-Integrating-Envizi-with-external-Systems">Link</a></td>
+        <td>User Management</td>
+        <td>Discussion on create users, logins, providing access, assigning various work roles, setting password policies</td>
+        <td>30 mins</td>
+        <td><a href="./160-contacts-logins">Link</a></td>
    </tr>
    <tr>
         <td>7</td>
-        <td>Session</td>
-        <td>RFX - Scoping and Pricing</td>
-        <td>How to leverage IBM resources to address the RFIs, RFXs |  App Point calculator | Pricing Packages </td>
+        <td><b>Lab 6.0</b></td>
+        <td>Creating Contacts and Users</td>
+        <td>Creating Contacts and Users via UI and Excel Template </td>
         <td>60 mins</td>
-        <td></td>
+        <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></td>
    </tr>
-   <tr>
-        <td>8</td>
-        <td>Session</td>
-        <td>Envizi Succes Story/Case studies</td>
-        <td>Discuss client refernces and success stories spread across various domains / industries</td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>
-   <tr>
-        <td>9</td>
-        <td>Session</td>
-        <td>PoX Best Practices</td>
-        <td>Overall best practices to follow in the implementation of PoCs | Sandbox Provisioning</td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>
-   <tr>
-        <td>10</td>
-        <td>Session</td>
-        <td>What's new in Envizi and Roadmap </td>
-        <td>Latest add-ons / upcoming features, etc</td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>   
-    <tr>
-        <td>11</td>
-        <td>KUIS</td>
-        <td>KUIS</td>
-        <td></td>
-        <td>15 mins</td>
-        <td></td>
-    </tr>
     <tr>
         <td colspan="6"> .......................................................................................... <strong>HARI KETIGA</strong> ..........................................................................................<td>
     </tr>    
