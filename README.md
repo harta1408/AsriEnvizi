@@ -119,32 +119,32 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Session</td>
         <td>Overview of Universal Account Connector</td>
         <td>Understand the concepts of Data loading template and connector to load the data into Envizi</td>
-        <td>60 mins</td>
+        <td>15 mins</td>
         <td></td>
     </tr>    
     <tr>
         <td>2</td>
-        <td>Session</td>
-        <td>Sustainability Targets & Programs </td>
-        <td>Penentuan Target dan Program Sustainability agar efektif</td>
+        <td><b>Lab 3.0</b></td>
+        <td>Data Loading Using Universal Account Connector</td>
+        <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
         <td>45 mins</td>
-        <td></td>
+        <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
     </tr>   
     <tr>
         <td>3</td>
         <td>Session</td>
-        <td>Modul Lanjutan </td>
-        <td>Building ratings and benchmarks | Value chain surveys and assessments | Interval Meters | Utility Analytics </td>
-        <td>45 mins</td>
+        <td>Managing Scope 1, 2 and 3 | Universal Account Connector PM&C </td>
+        <td>Scope 3 Categories, PM&C Connector, etc</td>
+        <td>30 mins</td>
         <td></td>
     </tr>   
    <tr>
         <td>4</td>
-        <td>Session</td>
+        <td><b>Lab 4.0</b></td>
         <td>Partner Development Life cycle</td>
         <td>Implementation Methodologies | Roles and Resposiblities | Solution configuration</td>
-        <td>30 mins</td>
-        <td></td>
+        <td>60 mins</td>
+        <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
    </tr>        
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
