@@ -104,7 +104,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
     </tr>  
     <tr>
-        <td>8</td>
+        <td>10</td>
         <td>KUIS</td>
         <td>KUIS</td>
         <td></td>
@@ -322,8 +322,8 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>   
     <tr>
-        <td>10</td>
-        <td></td>
+        <td>7</td>
+        <td>Wrap</td>
         <td>Closing and QA</td>
         <td></td>
         <td></td>
