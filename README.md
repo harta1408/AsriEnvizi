@@ -179,89 +179,90 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     <tr>
         <td>1</td>
         <td>Session</td>
-        <td>Data Management Overview</td>
-        <td>Groups, Locations & Accounts | Account styles,etc | UI Navigation</td>
+        <td>ESG Reporting Sustainability Reporting Manager (SRM) and Governance framework</td>
+        <td>Explore Sustrainability Reporting Manager</td>
         <td>30 mins</td>
-        <td></td>
+        <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
     </tr>
    <tr>
         <td>2</td>
-        <td><strong>Praktek</strong></td>
-        <td>Identify Industry specific Org hierarchy using the template provided</td>
-        <td>Provide a sample org hierarchy and ask the team to understand how should organization hierarchy generally looks like. Participant to present the hierarchy / story</td>
-        <td>30 mins</td>
-        <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
+        <td><b>Lab 7.0</b></td>
+        <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
+        <td>Explore Sustainability Reporting Manager</td>
+        <td>60 mins</td>
+        <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
     </tr>
    <tr>
         <td>3</td>
-        <td><strong>Praktek</strong></td>
-        <td>Create Groups, Locations, Account and load Data using UI</td>
+        <td>Session</td>
+        <td>Data Monitoring, Health & Issue Management</td>
+        <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
+        <td>30 mins</td>
         <td></td>
-        <td>60 mins</td>
-        <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
     </tr>
    <tr>
         <td>4</td>
-        <td>Session</td>
-        <td>Overview of Config Connector </td>
-        <td>Deep dive on Config connector and using the  template </td>
+        <td><b>Lab 8.0</b></td>
+        <td>Identify data gaps and Raise issues </td>
+        <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
         <td>15 mins</td>
-        <td></td>
+        <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
     </tr>
    <tr>
         <td>5</td>
-        <td><strong>Lab</strong></td>
-        <td>Create Groups and Locations Using Config Connector</td>
-        <td>Create the Organization hierarchy using the template - Config connector</td>
+        <td><strong>Lab 8.1</strong></td>
+        <td>Capture data through issue management</td>
+        <td>Capture data manually through Data capture feature of Issue Management</td>
+        <td>15 mins</td>
+        <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
+   </tr>
+   <tr>
+        <td>6</td>
+        <td><strong>Lab 8.2</strong></td>
+        <td>Account Setup and Data Load Template</td>
+        <td>Leverage Universal Account template to capture the missing data</td>
         <td>30 mins</td>
-        <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
+        <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a></td>
    </tr>
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
     </tr> 
-  <tr>
-        <td>5 contd </td>
-        <td><strong>Lab</strong></td>
-        <td>Create Groups and Locations Using Config Connector contd </td>
-        <td>Create the Organization hierarchy using the template - Config connector</td>
-        <td>30 mins</td>
-        <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
-   </tr>    
-   <tr>
-        <td>6</td>
-        <td>Session</td>
-        <td>Overview of Universal Account Connector</td>
-        <td>Understand the concepts of Data loading template and connectors to load the data into Envizi </td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>
    <tr>
         <td>7</td>
-        <td><strong>Lab</strong></td>
-        <td>Data loading using Universal Account Connector </td>
-        <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
-        <td>60 mins</td>
-        <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
-    </tr>
-    <tr>
-        <td>8</td>
         <td>Session</td>
-        <td>Recap - Managing Scope 3 | Universal Account Connector PM&C </td>
-        <td>Scope 3 categories, PM&C Connectors , etc</td>
+        <td>Envizi Data Flow Automation</td>
+        <td>Implement Data Flow Automation using API & AWS S3 and to leverage to integrated using ASRI Connect</td>
         <td>30 mins</td>
-        <td></td>    
+        <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
+   </tr>
+  <tr>
+        <td>8</td>
+        <td><strong>Lab 9.0</strong></td>
+        <td>Using ASRI-Connect to collect and review data</td>
+        <td>Using ASRI-Connect to collect and review data</td>
+        <td>60 mins</td>
+        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
+   </tr>    
     <tr>
         <td>9</td>
-        <td><strong>Lab</strong></td>
-        <td>Loading Scope 3 data using Account Setup and Data Load PM&C Template</td>
-        <td>Create the new accounts along with data using Account Setup and Data Load PM&C Template</td>
-        <td>60 mins</td>
-        <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
-   </tr>              
+        <td>Session</td>
+        <td>Creating Custom Power Reports and best pratices</td>
+        <td></td>
+        <td>15 mins</td>
+        <td></td>    
     <tr>
+   <tr>
         <td>10</td>
-        <td>KUIS</td>
-        <td>KUIS</td>
+        <td><strong>Lab 10.0</strong></td>
+        <td>Creating Custome Power Report</td>
+        <td></td>
+        <td>45 mins</td>
+        <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
+    </tr>            
+    <tr>
+        <td>11</td>
+        <td>QUIZ</td>
+        <td>QUIZ</td>
         <td></td>
         <td>15 mins</td>
         <td></td>
