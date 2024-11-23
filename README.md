@@ -25,7 +25,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <th>Link</th>
     </thead>
     <tr>
-        <td colspan="6"> .......................................................................................... <strong>HARI PERTAMA</strong> ..........................................................................................<td>
+        <td colspan="6"> ..................................................................................... <strong>HARI PERTAMA</strong> .....................................................................................<td>
     </tr>    
     <tr>
         <td>1</td>
@@ -105,8 +105,8 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr>  
     <tr>
         <td>10</td>
-        <td>KUIS</td>
-        <td>KUIS</td>
+        <td>QUIZ</td>
+        <td>QUIZ</td>
         <td></td>
         <td>15 mins</td>
         <td></td>
