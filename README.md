@@ -151,9 +151,9 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr> 
     <tr>
         <td>5</td>
-        <td><b>Lab 4.1</b></td>
-        <td>Loading Scope 3 Category 1 data using AI Assist</td>
-        <td>Using AI Assist feature to ingest Scope 3 Purchased Good Data</td>
+        <td><b>Lab 5.1</b></td>
+        <td>Dataflow Automation</td>
+        <td>Dataflow Automation and how to use how to use this to integrate data into Envizi</td>
         <td>60 mins</td>
         <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>
