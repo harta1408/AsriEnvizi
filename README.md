@@ -176,16 +176,8 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     <tr>
         <td colspan="6"> .......................................................................................... <strong>HARI KETIGA</strong> ..........................................................................................<td>
     </tr>    
-    <tr>
-        <td>1</td>
-        <td>Session</td>
-        <td>ESG Reporting Sustainability Reporting Manager (SRM) and Governance framework</td>
-        <td>Explore Sustrainability Reporting Manager</td>
-        <td>30 mins</td>
-        <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
-    </tr>
    <tr>
-        <td>2</td>
+        <td>1</td>
         <td><b>Lab 7.0</b></td>
         <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
         <td>Explore Sustainability Reporting Manager</td>
@@ -193,7 +185,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
     </tr>
    <tr>
-        <td>3</td>
+        <td>2</td>
         <td>Session</td>
         <td>Data Monitoring, Health & Issue Management</td>
         <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
@@ -201,7 +193,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>
    <tr>
-        <td>4</td>
+        <td>3</td>
         <td><b>Lab 8.0</b></td>
         <td>Identify data gaps and Raise issues </td>
         <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
@@ -209,7 +201,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
     </tr>
    <tr>
-        <td>5</td>
+        <td>4</td>
         <td><strong>Lab 8.1</strong></td>
         <td>Capture data through issue management</td>
         <td>Capture data manually through Data capture feature of Issue Management</td>
@@ -217,7 +209,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
    </tr>
    <tr>
-        <td>6</td>
+        <td>5</td>
         <td><strong>Lab 8.2</strong></td>
         <td>Account Setup and Data Load Template</td>
         <td>Leverage Universal Account template to capture the missing data</td>
@@ -228,15 +220,15 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
     </tr> 
    <tr>
-        <td>7</td>
+        <td>6</td>
         <td>Session</td>
-        <td>Envizi Data Flow Automation</td>
+        <td>Exposing Envizi data to external systems by using API</td>
         <td>Implement Data Flow Automation using API & AWS S3 and to leverage to integrated using ASRI Connect</td>
         <td>30 mins</td>
         <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
    </tr>
   <tr>
-        <td>8</td>
+        <td>7</td>
         <td><strong>Lab 9.0</strong></td>
         <td>Using ASRI-Connect to collect and review data</td>
         <td>Using ASRI-Connect to collect and review data</td>
@@ -244,7 +236,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
    </tr>    
     <tr>
-        <td>9</td>
+        <td>8</td>
         <td>Session</td>
         <td>Creating Custom Power Reports and best pratices</td>
         <td></td>
@@ -252,7 +244,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>    
     <tr>
    <tr>
-        <td>10</td>
+        <td>9</td>
         <td><strong>Lab 10.0</strong></td>
         <td>Creating Custome Power Report</td>
         <td></td>
@@ -260,7 +252,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
     </tr>            
     <tr>
-        <td>11</td>
+        <td>10</td>
         <td>QUIZ</td>
         <td>QUIZ</td>
         <td></td>
