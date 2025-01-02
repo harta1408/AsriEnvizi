@@ -141,7 +141,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
    <tr>
         <td>4</td>
         <td><b>Lab 4.0</b></td>
-        <td>Partner Development Life cycle</td>
+        <td>Managing Scope 1, 2 and 3 | Universal Account Connector PM&C</td>
         <td>Implementation Methodologies | Roles and Resposiblities | Solution configuration</td>
         <td>60 mins</td>
         <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
@@ -152,7 +152,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     <tr>
         <td>5</td>
         <td><b>Lab 4.1</b></td>
-        <td>Loading Scope 3 Category 1 data using AU Assist</td>
+        <td>Loading Scope 3 Category 1 data using AI Assist</td>
         <td>Using AI Assist feature to ingest Scope 3 Purchased Good Data</td>
         <td>60 mins</td>
         <td><a href="./125-data-flow-automation-session">Link</a></td>
