@@ -132,11 +132,11 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr>   
     <tr>
         <td>3</td>
-        <td>Session</td>
-        <td>Managing Scope 1, 2 and 3 | Universal Account Connector PM&C </td>
-        <td>Scope 3 Categories, PM&C Connector, etc</td>
+        <td><b>Lab 3.1</b></td>
+        <td>Using AI Assist to classify Scope 3 data</td>
+        <td>using AI assist features we will load spend-based data</td>
         <td>30 mins</td>
-        <td></td>
+        <td><a href="./124-Loading-Scope-3-Category1-data-using-AI-Assist">Link</a></td>
     </tr>   
    <tr>
         <td>4</td>
