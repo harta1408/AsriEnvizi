@@ -246,7 +246,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
    <tr>
         <td>9</td>
         <td><strong>Lab 10.0</strong></td>
-        <td>Creating Custome Power Report</td>
+        <td>Creating Custom Power Report</td>
         <td></td>
         <td>45 mins</td>
         <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
