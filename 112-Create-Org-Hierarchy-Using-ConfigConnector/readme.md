@@ -26,7 +26,7 @@ Here are the key steps in this process:
 
 ## 1. Download the Template
 
-1. Download the config connector excel template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` from [here](./files/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX) or from the shared Box folder. 
+1. Download the config connector excel template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` from [here](./Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX) or from the shared Box folder. 
 
 **Note:** This template is the modified version of the template  [Envizi L4 POX - Setup config template + examples.XLSX](https://ibm.seismic.com/Link/Content/DCT9JP7FQMfq2GTGFQGRfc4cbpJB) available in `Seismic`.
 
