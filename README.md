@@ -25,7 +25,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <th>Link</th>
     </thead>
     <tr>
-        <td colspan="6"> ....................................................................................... <strong>HARI PERTAMA</strong> .......................................................................................<td>
+        <td colspan="6"> ....................................................................................... <strong>DAY SEVEN</strong> .......................................................................................<td>
     </tr>    
     <tr>
         <td>1</td>
@@ -112,7 +112,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>   
     <tr>
-        <td colspan="6"> .......................................................................................... <strong>HARI KEDUA</strong> ..........................................................................................<td>
+        <td colspan="6"> .......................................................................................... <strong>DAY EIGHTH </strong> ..........................................................................................<td>
     </tr>  
     <tr>
         <td>1</td>
@@ -174,7 +174,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></td>
    </tr>
     <tr>
-        <td colspan="6"> .......................................................................................... <strong>HARI KETIGA</strong> ..........................................................................................<td>
+        <td colspan="6"> .......................................................................................... <strong>DAY NINETH </strong> ..........................................................................................<td>
     </tr>    
    <tr>
         <td>1</td>
@@ -211,7 +211,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
    <tr>
         <td>5</td>
         <td><strong>Lab 8.2</strong></td>
-        <td>Account Setup and Data Load Template</td>
+        <td>Update the existing data in the Accounts or ingest new data</td>
         <td>Leverage Universal Account template to capture the missing data</td>
         <td>30 mins</td>
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a></td>
@@ -224,16 +224,16 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Session</td>
         <td>Exposing Envizi data to external systems by using API</td>
         <td>Implement Data Flow Automation using API & AWS S3 and to leverage to integrated using ASRI Connect</td>
-        <td>30 mins</td>
+        <td>60 mins</td>
         <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
    </tr>
   <tr>
         <td>7</td>
         <td><strong>Lab 9.0</strong></td>
         <td>Using ASRI-Connect to collect and review data</td>
-        <td>Using ASRI-Connect to collect and review data</td>
-        <td>60 mins</td>
-        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
+        <td>Asri will provide easy way to collect data</td>
+        <td>30 mins</td>
+        <td><a href="https://esg.agile.co.id">Link</a></td>
    </tr>    
     <tr>
         <td>8</td>
@@ -260,7 +260,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>
     <tr>
-        <td colspan="6"> .......................................................................................... <strong>HARI KE-EMPAT</strong> ..........................................................................................<td>
+        <td colspan="6"> .......................................................................................... <strong>DAY TENTH</strong> ..........................................................................................<td>
     </tr>           
     <tr>
         <td>1</td>
