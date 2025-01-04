@@ -374,28 +374,4 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
 ## Note : 
 
 1. The template Excel files mentioned in the labs are available in the shared Box folder with the same directory structure. Get the Box folder link from your instructor.
-
-
-
- <tr>
-        <td>8</td>
-        <td><strong>Lab</strong></td>
-        <td>Explore Emission factors</td>
-        <td>Explore Emission factors associated with the data loaded through Labs</td>
-        <td>60 mins</td>
-        <td><a href="./170-Explore-Emission-factors">Link</a></td>
-   </tr>     
-       <tr>
-        <td>5</td>
-        <td>Create Custom Emission Factors</td>
-        <td><strong>Lab</strong></td>
-        <td><a href="./172-Custom-Emission-Factors">Link</a></td>
-   </tr>     
-    <tr>
-        <td>9</td>
-        <td><strong>Lab</strong></td>
-        <td>Target setting and tracking & Validation</td>
-        <td></td>
-        <td>30 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr>   
+2. For window sharing meeting can be found  <a href="https://asri.agile.co.id>here</a>
