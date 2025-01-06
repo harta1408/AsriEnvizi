@@ -374,4 +374,4 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
 ## Note : 
 
 1. The template Excel files mentioned in the labs are available in the shared Box folder with the same directory structure. Get the Box folder link from your instructor.
-2. For window sharing meeting can be found  <a href="https://us06web.zoom.us/j/83265472648?pwd=zUkGVIQJ0b08bBqBf86tn2b2bUC05K.1">here</a>
+2. For zoom virtual meeting can be found  <a href="https://us06web.zoom.us/j/83265472648?pwd=zUkGVIQJ0b08bBqBf86tn2b2bUC05K.1">here</a>
