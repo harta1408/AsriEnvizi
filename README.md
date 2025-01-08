@@ -132,19 +132,19 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr>   
     <tr>
         <td>3</td>
-        <td><b>Lab 3.1</b></td>
-        <td>Using AI Assist to classify Scope 3 data</td>
-        <td>using AI assist features we will load spend-based data</td>
+        <td><b>Session</b></td>
+        <td>Scope 1 & 2</td>
+        <td>Understanding Scope 1 & Scope 2</td>
         <td>30 mins</td>
-        <td><a href="./124-Loading-Scope-3-Category1-data-using-AI-Assist">Link</a></td>
+        <td></td>
     </tr>   
    <tr>
         <td>4</td>
-        <td><b>Lab 4.0</b></td>
-        <td>Managing Scope 1, 2 and 3 | Universal Account Connector PM&C</td>
-        <td>Implementation Methodologies | Roles and Resposiblities | Solution configuration</td>
-        <td>60 mins</td>
-        <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
+        <td><b>Session</b></td>
+        <td>Managing Scope 3 </td>
+        <td>Unsestanding Scope 3</td>
+        <td>30 mins</td>
+        <td></td>
    </tr>        
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
