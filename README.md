@@ -377,3 +377,5 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
 2. For zoom virtual meeting can be found  <a href="https://us06web.zoom.us/j/83265472648?pwd=zUkGVIQJ0b08bBqBf86tn2b2bUC05K.1">here</a>
 3. Resource <a href="https://drive.google.com/drive/folders/16bvTaV3hOGN3hfANo-1yuiIkq0cXNu7I?usp=sharing">Google Drive</a>
 4. Beri kami <a href="https://forms.gle/Wpp4xhK89Bgw1dTb9">masukan</a>
+5. Anda masih bisa menggunakan Envizi dan Resource yang tersedia sampai tanggal <strong>17 Januari 2025</strong>
+
