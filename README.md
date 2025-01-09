@@ -378,5 +378,5 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
 3. Resource <a href="https://drive.google.com/drive/folders/16bvTaV3hOGN3hfANo-1yuiIkq0cXNu7I?usp=sharing">Google Drive</a>
 4. Beri kami masukan   dan  <a href="https://forms.gle/Wpp4xhK89Bgw1dTb9">Training Envizi</a>
 5. Anda masih bisa menggunakan Envizi dan Resource yang tersedia sampai tanggal <strong>17 Januari 2025</strong>
-6. Feedback for <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Eglew88etE2XK4_wD0zbfyJAHh8aSQxGg864DgRCKOpUMjJMUEI0SU5SREQ2N05INUpYRk03TFMzTi4u&origin=QRCode">Sucofindo</a> <img src="sucofindo_survey.png">
+6. Feedback for <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Eglew88etE2XK4_wD0zbfyJAHh8aSQxGg864DgRCKOpUMjJMUEI0SU5SREQ2N05INUpYRk03TFMzTi4u&origin=QRCode">Sucofindo</a> <img src="http://apps.agile.co.id/demobromo/public/images/sucofindo_survey.png">
 
