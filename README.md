@@ -114,14 +114,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>30 mins</td>
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
     </tr>
-   <tr>
-        <td>12</td>
-        <td>Session</td>
-        <td>Data Monitoring, Health & Issue Management</td>
-        <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
-        <td>30 mins</td>
-        <td></td>
-    </tr>
     <tr>
         <td>13</td>
         <td>QUIZ</td>
@@ -133,6 +125,30 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
      <tr>
         <td colspan="6"> .......................................................................................... <strong>DAY TWO</strong> ..........................................................................................<td>
     </tr>  
+    <tr>
+        <td>2</td>
+        <td>Session</td>
+        <td>Data Monitoring, Health & Issue Management</td>
+        <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
+        <td>30 mins</td>
+        <td></td>
+    </tr>
+   <tr>
+        <td>3</td>
+        <td><b>Lab 8.0</b></td>
+        <td>Identify data gaps and Raise issues </td>
+        <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
+        <td>15 mins</td>
+        <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
+    </tr>
+   <tr>
+        <td>4</td>
+        <td><strong>Lab 8.1</strong></td>
+        <td>Capture data through issue management</td>
+        <td>Capture data manually through Data capture feature of Issue Management</td>
+        <td>15 mins</td>
+        <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
+   </tr>
     <tr>
         <td>1</td>
         <td>Session</td>
