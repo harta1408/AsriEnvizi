@@ -62,7 +62,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
     </tr>
-
     <tr>
         <td>5</td>
         <td>Session</td>
@@ -97,7 +96,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
     </tr>  
     <tr>
-        <td>3</td>
+        <td>8</td>
         <td><b>Session</b></td>
         <td>Scope 1 & 2</td>
         <td>Understanding Scope 1 & Scope 2</td>
@@ -105,7 +104,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>   
    <tr>
-        <td>4</td>
+        <td>9</td>
         <td><b>Session</b></td>
         <td>Managing Scope 3 </td>
         <td>Unsestanding Scope 3</td>
@@ -113,7 +112,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
    </tr>        
    <tr>
-        <td>1</td>
+        <td>10</td>
         <td><b>Lab 7.0</b></td>
         <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
         <td>Explore Sustainability Reporting Manager</td>
@@ -121,23 +120,15 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
     </tr>
    <tr>
-        <td>2</td>
+        <td>11</td>
         <td>Session</td>
         <td>Data Monitoring, Health & Issue Management</td>
         <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
         <td>30 mins</td>
         <td></td>
     </tr>
-   <tr>
-        <td>3</td>
-        <td><b>Lab 8.0</b></td>
-        <td>Identify data gaps and Raise issues </td>
-        <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
-        <td>15 mins</td>
-        <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
-    </tr>
     <tr>
-        <td>10</td>
+        <td>12</td>
         <td>QUIZ</td>
         <td>QUIZ</td>
         <td></td>
