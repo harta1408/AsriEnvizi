@@ -88,14 +88,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr> 
     <tr>
-        <td>8</td>
-        <td>Session</td>
-        <td>Overview of Config Connector</td>
-        <td>Deep dive on Config connector and using the template</td>
-        <td>15 mins</td>
-        <td></td>
-    </tr>    
-        <tr>
         <td>9</td>
         <td><b>Lab 2.0</b></td>
         <td>Create Groups and Locations Using Config Connector</td>
@@ -103,33 +95,9 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>45 mins</td>
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
     </tr>  
-    <tr>
-        <td>10</td>
-        <td>QUIZ</td>
-        <td>QUIZ</td>
-        <td></td>
-        <td>15 mins</td>
-        <td></td>
-    </tr>   
-    <tr>
-        <td colspan="6"> .......................................................................................... <strong>DAY TWO</strong> ..........................................................................................<td>
-    </tr>  
-    <tr>
-        <td>1</td>
-        <td>Session</td>
-        <td>Overview of Universal Account Connector</td>
-        <td>Understand the concepts of Data loading template and connector to load the data into Envizi</td>
-        <td>15 mins</td>
-        <td></td>
-    </tr>    
-    <tr>
-        <td>2</td>
-        <td><b>Lab 3.0</b></td>
-        <td>Data Loading Using Universal Account Connector</td>
-        <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
-        <td>45 mins</td>
-        <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
-    </tr>   
+
+   
+ 
     <tr>
         <td>3</td>
         <td><b>Session</b></td>
@@ -147,8 +115,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
    </tr>        
     <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
-    </tr> 
+
     <tr>
         <td>5</td>
         <td><b>Lab 5.1</b></td>
@@ -157,25 +124,8 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>60 mins</td>
         <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>
-       <tr>
-        <td>6</td>
-        <td>Session</td>
-        <td>User Management</td>
-        <td>Discussion on create users, logins, providing access, assigning various work roles, setting password policies</td>
-        <td>30 mins</td>
-        <td><a href="./160-contacts-logins">Link</a></td>
-   </tr>
-   <tr>
-        <td>7</td>
-        <td><b>Lab 6.0</b></td>
-        <td>Creating Contacts and Users</td>
-        <td>Creating Contacts and Users via UI and Excel Template </td>
-        <td>60 mins</td>
-        <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></td>
-   </tr>
-    <tr>
-        <td colspan="6"> .......................................................................................... <strong>DAY THREE</strong> ..........................................................................................<td>
-    </tr>    
+
+
    <tr>
         <td>1</td>
         <td><b>Lab 7.0</b></td>
@@ -200,57 +150,10 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>15 mins</td>
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
     </tr>
-   <tr>
-        <td>4</td>
-        <td><strong>Lab 8.1</strong></td>
-        <td>Capture data through issue management</td>
-        <td>Capture data manually through Data capture feature of Issue Management</td>
-        <td>15 mins</td>
-        <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
-   </tr>
-   <tr>
-        <td>5</td>
-        <td><strong>Lab 8.2</strong></td>
-        <td>Update the existing data in the Accounts or ingest new data</td>
-        <td>Leverage Universal Account template to capture the missing data</td>
-        <td>30 mins</td>
-        <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a></td>
-   </tr>
-    <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
-    </tr> 
-   <tr>
-        <td>6</td>
-        <td>Session</td>
-        <td>Exposing Envizi data to external systems by using API</td>
-        <td>Implement Data Flow Automation using API & AWS S3 and to leverage to integrated using ASRI Connect</td>
-        <td>60 mins</td>
-        <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
-   </tr>
-  <tr>
-        <td>7</td>
-        <td><strong>Lab 9.0</strong></td>
-        <td>Using ASRI-Connect to collect and review data</td>
-        <td>Asri will provide easy way to collect data</td>
-        <td>30 mins</td>
-        <td><a href="https://esg.agile.co.id">Link</a></td>
-   </tr>    
-    <tr>
-        <td>8</td>
-        <td>Session</td>
-        <td>Creating Custom Power Reports and best pratices</td>
-        <td></td>
-        <td>15 mins</td>
-        <td></td>    
-    <tr>
-   <tr>
-        <td>9</td>
-        <td><strong>Lab 10.0</strong></td>
-        <td>Creating Custom Power Report</td>
-        <td></td>
-        <td>45 mins</td>
-        <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
-    </tr>            
+
+
+
+          
     <tr>
         <td>10</td>
         <td>QUIZ</td>
@@ -259,7 +162,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>15 mins</td>
         <td></td>
     </tr>
-   
+</table>   
 
 
 
