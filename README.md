@@ -259,69 +259,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>15 mins</td>
         <td></td>
     </tr>
-    <tr>
-        <td colspan="6"> .......................................................................................... <strong>DAY FOUR</strong> ..........................................................................................<td>
-    </tr>           
-    <tr>
-        <td>1</td>
-        <td>Session</td>
-        <td>Envizi Emission Factor Selection</td>
-        <td>Understand how Emission Factor Selection Algorithm works</td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>    
-    <tr>
-        <td>2</td>
-        <td><strong>Lab 11.0</strong></td>
-        <td>Explore Emission factors</td>
-        <td>Explore Emission factors associated with the data loaded through Labs</td>
-        <td>60 mins</td>
-        <td><a href="./170-Explore-Emission-factors">Link</a></td>
-   </tr>     
-    <tr>
-        <td>3</td>
-        <td><strong>Lab 12.0</strong></td>
-        <td>Custom Emission factors</td>
-        <td>Create Custom Emission factors based on Organization's / Supplier specific emission factors</td>
-        <td>30 mins</td>
-        <td><a href="./172-Custom-Emission-Factors">Link</a></td>
-   </tr>         
-    <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
-    </tr>  
-    <tr>
-        <td>4</td>
-        <td>Session</td>
-        <td>Target setting and tracking & Validation</td>
-        <td>Understanding how Target and Tracking setting</td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>
-    <tr>
-        <td>5</td>
-        <td><strong>Lab 13.0</strong></td>
-        <td>Target setting and tracking & Validation</td>
-        <td>Set the targets for Accounts / Locations Target Setting & Tracking | Program Tracking | Scenario Modeller</td>
-        <td>60 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr>    
-    <tr>
-        <td>6</td>
-        <td>QUIZ</td>
-        <td>QUIZ</td>
-        <td></td>
-        <td>15 mins</td>
-        <td></td>
-    </tr>   
-    <tr>
-        <td>7</td>
-        <td>Wrap</td>
-        <td>Closing and QA</td>
-        <td></td>
-        <td></td>
-        <td></td>
-   </tr>   
-</table>
+   
 
 
 
