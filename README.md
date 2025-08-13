@@ -45,7 +45,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr>   
     <tr>
         <td>3</td>
-        <td colspan="3">BREAK</td>
+        <td colspan="3"><b>BREAK</b></td>
         <td>15 mins</td>
         <td></td>
     </tr> 
@@ -86,7 +86,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr>  
     <tr>
         <td>7</td> 
-        <td colspan="3">BREAK</td>
+        <td colspan="3"><b>BREAK</b></td>
         <td>15 mins</td>
         <td></td>
     </tr> 
@@ -111,7 +111,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><b>Lab 7.0</b></td>
         <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
         <td>Explore Sustainability Reporting Manager</td>
-        <td>60 mins</td>
+        <td>30 mins</td>
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
     </tr>
    <tr>
@@ -131,7 +131,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>
 </table>   
-
 
 
 ## Additional Info
