@@ -155,6 +155,9 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>15 mins</td>
         <td></td>
     </tr> 
+       <tr>
+        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
+    </tr> 
         <tr>
         <td>7</td>
         <td><b>Lab 3.0</b></td>
@@ -162,9 +165,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
         <td>45 mins</td>
         <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
-    </tr> 
-   <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
     </tr> 
           <tr>
         <td>8</td>
@@ -174,8 +174,14 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>45mins</td>
         <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr> 
-    <tr>
+           <tr>
         <td>9</td>
+        <td colspan="3"><b>BREAK</b></td>
+        <td>15 mins</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>10</td>
         <td><b>Lab 8.0</b></td>
         <td>Identify data gaps and Raise issues </td>
         <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
@@ -183,7 +189,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
     </tr>
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td><strong>Lab 8.1</strong></td>
         <td>Capture data through issue management</td>
         <td>Capture data manually through Data capture feature of Issue Management</td>
@@ -191,7 +197,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
    </tr>   
        <tr>
-        <td>11</td>
+        <td>12</td>
         <td>Session</td>
         <td>Data Monitoring, Health & Issue Management</td>
         <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
