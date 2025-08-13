@@ -77,7 +77,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
     </tr>     
     <tr>
-        <td>9</td>
+        <td>7</td>
         <td><b>Lab 2.0</b></td>
         <td>Create Groups and Locations Using Config Connector</td>
         <td>Create the Organization Hierarchy using the template - Config Connector</td>
@@ -85,13 +85,13 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
     </tr>  
     <tr>
-        <td>7</td> 
+        <td>8</td> 
         <td colspan="3"><b>BREAK</b></td>
         <td>15 mins</td>
         <td></td>
     </tr> 
     <tr>
-        <td>8</td>
+        <td>9</td>
         <td><b>Session</b></td>
         <td>Scope 1 & 2</td>
         <td>Understanding Scope 1 & Scope 2</td>
@@ -99,7 +99,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>   
    <tr>
-        <td>9</td>
+        <td>10</td>
         <td><b>Session</b></td>
         <td>Managing Scope 3 </td>
         <td>Unsestanding Scope 3</td>
@@ -107,7 +107,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
    </tr>        
    <tr>
-        <td>10</td>
+        <td>11</td>
         <td><b>Lab 7.0</b></td>
         <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
         <td>Explore Sustainability Reporting Manager</td>
@@ -115,7 +115,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
     </tr>
    <tr>
-        <td>11</td>
+        <td>12</td>
         <td>Session</td>
         <td>Data Monitoring, Health & Issue Management</td>
         <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
@@ -123,7 +123,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
     </tr>
     <tr>
-        <td>12</td>
+        <td>13</td>
         <td>QUIZ</td>
         <td>QUIZ</td>
         <td></td>
