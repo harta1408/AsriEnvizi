@@ -11,7 +11,7 @@ ASRI atau Agile Suistanability Report and Information adalah produk dari <a href
 ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data kedalam sistem IBM Envizi, ASRI Connect memberikan kemudahan upload data dari file xls, input data dengan berbagai level atau tinggkatan.  Dimana melalui level dan tingkatan akses ini, terjadi pengawasan terhadap data yang di masukan kedalam Emvizi.
 
 ## AGILE
-<a href="https://agile.co.id">PT. Anagile Kharisma Utama</a> atau dikenal dengan Agile Solution, merupakan BP (Business Partner) IBM, dan dipercaya IBM untuk memasarkan berbagai produk seperti IBM Envizi, Maximo dsb.
+<a href="https://agile.co.id">PT. Anagile Kharisma Utama</a> atau dikenal dengan Brand **Agile Solution**, merupakan BP (Business Partner) IBM, dan dipercaya IBM untuk memasarkan berbagai produk seperti IBM Envizi, Maximo dsb.
 
 ## Rencana Pelatihan Envizi
 
@@ -111,79 +111,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
     </tr>  
     <tr>
         <td>1</td>
-        <td><b>Lab 1.1</b></td>
-        <td>Create Groups, Locations, Account and load Data using UI</td>
-        <td></td>
-        <td>60 mins</td>
-        <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
-    </tr>     
-    <tr>
-        <td>2</td>
-        <td><b>Lab 2.0</b></td>
-        <td>Create Groups and Locations Using Config Connector</td>
-        <td>Create the Organization Hierarchy using the template - Config Connector</td>
-        <td>45 mins</td>
-        <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
-    </tr>    
-    <tr>
-        <td>3</td>
-        <td colspan="3"><b>BREAK</b></td>
-        <td>15 mins</td>
-        <td></td>
-    </tr> 
-    <tr>
-        <td>4</td>
-        <td>Session</td>
-        <td>Data Monitoring, Health & Issue Management</td>
-        <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
-        <td>30 mins</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td><b>Lab 8.0</b></td>
-        <td>Identify data gaps and Raise issues </td>
-        <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
-        <td>15 mins</td>
-        <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td><strong>Lab 8.1</strong></td>
-        <td>Capture data through issue management</td>
-        <td>Capture data manually through Data capture feature of Issue Management</td>
-        <td>15 mins</td>
-        <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
-   </tr>
-    <tr>
-        <td>7</td>
-        <td>Session</td>
-        <td>Overview of Universal Account Connector</td>
-        <td>Understand the concepts of Data loading template and connector to load the data into Envizi</td>
-        <td>15 mins</td>
-        <td></td>
-    </tr>    
-    <tr>
-        <td>8</td>
-        <td><b>Lab 3.0</b></td>
-        <td>Data Loading Using Universal Account Connector</td>
-        <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
-        <td>45 mins</td>
-        <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
-    </tr>   
-    <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
-    </tr> 
-    <tr>
-        <td>9</td>
-        <td><b>Lab 5.1</b></td>
-        <td>Dataflow Automation</td>
-        <td>Dataflow Automation and how to use how to use this to integrate data into Envizi</td>
-        <td>60 mins</td>
-        <td><a href="./125-data-flow-automation-session">Link</a></td>
-   </tr>
-       <tr>
-        <td>10</td>
         <td>Session</td>
         <td>User Management</td>
         <td>Discussion on create users, logins, providing access, assigning various work roles, setting password policies</td>
@@ -191,20 +118,93 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td><a href="./160-contacts-logins">Link</a></td>
    </tr>
    <tr>
-        <td>11</td>
+        <td>2</td>
         <td><b>Lab 6.0</b></td>
         <td>Creating Contacts and Users</td>
         <td>Creating Contacts and Users via UI and Excel Template </td>
         <td>60 mins</td>
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></td>
    </tr>
+    <tr>
+        <td>3</td>
+        <td><b>Lab 1.1</b></td>
+        <td>Create Groups, Locations, Account and load Data using UI</td>
+        <td></td>
+        <td>60 mins</td>
+        <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
+    </tr>     
+        <tr>
+        <td>4</td>
+        <td colspan="3"><b>BREAK</b></td>
+        <td>15 mins</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td><b>Lab 2.0</b></td>
+        <td>Create Groups and Locations Using Config Connector</td>
+        <td>Create the Organization Hierarchy using the template - Config Connector</td>
+        <td>45 mins</td>
+        <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
+    </tr>    
+        <tr>
+        <td>6</td>
+        <td>Session</td>
+        <td>Overview of Universal Account Connector</td>
+        <td>Understand the concepts of Data loading template and connector to load the data into Envizi</td>
+        <td>15 mins</td>
+        <td></td>
+    </tr> 
+        <tr>
+        <td>7</td>
+        <td><b>Lab 3.0</b></td>
+        <td>Data Loading Using Universal Account Connector</td>
+        <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
+        <td>45 mins</td>
+        <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
+    </tr> 
+   <tr>
+        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
+    </tr> 
+          <tr>
+        <td>8</td>
+        <td><b>Lab 5.1</b></td>
+        <td>Dataflow Automation</td>
+        <td>Dataflow Automation and how to use how to use this to integrate data into Envizi</td>
+        <td>45mins</td>
+        <td><a href="./125-data-flow-automation-session">Link</a></td>
+   </tr> 
+    <tr>
+        <td>9</td>
+        <td><b>Lab 8.0</b></td>
+        <td>Identify data gaps and Raise issues </td>
+        <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
+        <td>15 mins</td>
+        <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td><strong>Lab 8.1</strong></td>
+        <td>Capture data through issue management</td>
+        <td>Capture data manually through Data capture feature of Issue Management</td>
+        <td>15 mins</td>
+        <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
+   </tr>   
+       <tr>
+        <td>11</td>
+        <td>Session</td>
+        <td>Data Monitoring, Health & Issue Management</td>
+        <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
+        <td>30 mins</td>
+        <td></td>
+    </tr>
 </table>   
 
 
 ## Additional Info
 <table>
     <thead>
-        <th>S.No</th>
+        <th>No</th>
         <th>Topic</th>
         <th>Type</th>
         <th>Link</th>
