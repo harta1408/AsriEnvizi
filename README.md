@@ -130,6 +130,68 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>15 mins</td>
         <td></td>
     </tr>
+     <tr>
+        <td colspan="6"> .......................................................................................... <strong>DAY TWO</strong> ..........................................................................................<td>
+    </tr>  
+    <tr>
+        <td>1</td>
+        <td>Session</td>
+        <td>Overview of Universal Account Connector</td>
+        <td>Understand the concepts of Data loading template and connector to load the data into Envizi</td>
+        <td>15 mins</td>
+        <td></td>
+    </tr>    
+    <tr>
+        <td>2</td>
+        <td><b>Lab 3.0</b></td>
+        <td>Data Loading Using Universal Account Connector</td>
+        <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
+        <td>45 mins</td>
+        <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
+    </tr>   
+    <tr>
+        <td>3</td>
+        <td><b>Session</b></td>
+        <td>Scope 1 & 2</td>
+        <td>Understanding Scope 1 & Scope 2</td>
+        <td>30 mins</td>
+        <td></td>
+    </tr>   
+   <tr>
+        <td>4</td>
+        <td><b>Session</b></td>
+        <td>Managing Scope 3 </td>
+        <td>Unsestanding Scope 3</td>
+        <td>30 mins</td>
+        <td></td>
+   </tr>        
+    <tr>
+        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td><b>Lab 5.1</b></td>
+        <td>Dataflow Automation</td>
+        <td>Dataflow Automation and how to use how to use this to integrate data into Envizi</td>
+        <td>60 mins</td>
+        <td><a href="./125-data-flow-automation-session">Link</a></td>
+   </tr>
+       <tr>
+        <td>6</td>
+        <td>Session</td>
+        <td>User Management</td>
+        <td>Discussion on create users, logins, providing access, assigning various work roles, setting password policies</td>
+        <td>30 mins</td>
+        <td><a href="./160-contacts-logins">Link</a></td>
+   </tr>
+   <tr>
+        <td>7</td>
+        <td><b>Lab 6.0</b></td>
+        <td>Creating Contacts and Users</td>
+        <td>Creating Contacts and Users via UI and Excel Template </td>
+        <td>60 mins</td>
+        <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></td>
+   </tr>
 </table>   
 
 
