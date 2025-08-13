@@ -95,9 +95,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>45 mins</td>
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
     </tr>  
-
-   
- 
     <tr>
         <td>3</td>
         <td><b>Session</b></td>
@@ -114,18 +111,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>30 mins</td>
         <td></td>
    </tr>        
-    <tr>
-
-    <tr>
-        <td>5</td>
-        <td><b>Lab 5.1</b></td>
-        <td>Dataflow Automation</td>
-        <td>Dataflow Automation and how to use how to use this to integrate data into Envizi</td>
-        <td>60 mins</td>
-        <td><a href="./125-data-flow-automation-session">Link</a></td>
-   </tr>
-
-
    <tr>
         <td>1</td>
         <td><b>Lab 7.0</b></td>
@@ -150,10 +135,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>15 mins</td>
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
     </tr>
-
-
-
-          
     <tr>
         <td>10</td>
         <td>QUIZ</td>
