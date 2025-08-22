@@ -23,6 +23,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <th>Desc</th>
         <th>Duration</th>
         <th>Link</th>
+        <th>Audience</th>
     </thead>
     <tr>
         <td colspan="6"> ....................................................................................... <strong>DAY ONE</strong> .......................................................................................<td>
@@ -34,6 +35,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Gambaran Umum Sustrainability pada Sistem Envizi dan Modul Apa saja yang ada dalam Envizi</td>
         <td>45 mins</td>
         <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>2</td>
@@ -42,11 +44,13 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Mengenal Dashboard Envizi, Laporan dan Power Report </td>
         <td>45 mins</td>
         <td></td>
+        <td></td>
     </tr>   
     <tr>
         <td>3</td>
         <td colspan="3"><b>BREAK</b></td>
         <td>15 mins</td>
+        <td></td>
         <td></td>
     </tr> 
     <tr>
@@ -56,6 +60,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Explore Sustainability Reporting Manager</td>
         <td>30 mins</td>
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
+        <td></td>
     </tr> 
     <tr>
         <td>5</td>
@@ -64,6 +69,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Provide a sample org hierarchy and ask the team to understand how should organization hierarchy generally looks like</td>
         <td>30 mins</td>
         <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
+        <td></td>
     </tr>  
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td>  
@@ -75,6 +81,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Understanding Scope 1 & Scope 2</td>
         <td>45 mins</td>
         <td></td>
+        <td></td>
     </tr>   
        <tr>
         <td>7</td>
@@ -83,11 +90,13 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Unsestanding Scope 3</td>
         <td>45 mins</td>
         <td></td>
+           <td></td>
    </tr> 
     <tr>
         <td>8</td> 
         <td colspan="3"><b>BREAK</b></td>
         <td>15 mins</td>
+        <td></td>
         <td></td>
     </tr> 
    <tr>
@@ -97,6 +106,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Groups, Locations & Account (Account Styles)</td>
         <td>30 mins</td>
         <td></td>
+       <td></td>
     </tr>
     <tr>
         <td>10</td>
@@ -104,6 +114,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>QUIZ</td>
         <td></td>
         <td>15 mins</td>
+        <td></td>
         <td></td>
     </tr>
      <tr>
@@ -116,6 +127,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Discussion on create users, logins, providing access, assigning various work roles, setting password policies</td>
         <td>30 mins</td>
         <td><a href="./160-contacts-logins">Link</a></td>
+        <td></td>
    </tr>
    <tr>
         <td>2</td>
@@ -124,6 +136,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Creating Contacts and Users via UI and Excel Template </td>
         <td>60 mins</td>
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></td>
+       <td></td>
    </tr>
     <tr>
         <td>3</td>
@@ -132,11 +145,13 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
         <td>60 mins</td>
         <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
+        <td></td>
     </tr>     
         <tr>
         <td>4</td>
         <td colspan="3"><b>BREAK</b></td>
         <td>15 mins</td>
+        <td></td>
         <td></td>
     </tr> 
     <tr>
@@ -146,6 +161,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Create the Organization Hierarchy using the template - Config Connector</td>
         <td>45 mins</td>
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
+        <td></td>
     </tr>    
         <tr>
         <td>6</td>
@@ -153,6 +169,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Overview of Universal Account Connector</td>
         <td>Understand the concepts of Data loading template and connector to load the data into Envizi</td>
         <td>15 mins</td>
+        <td></td>
         <td></td>
     </tr> 
        <tr>
@@ -165,6 +182,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Create the new accounts along with data using template - POC Account Setup and Data</td>
         <td>45 mins</td>
         <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
+        <td></td>
     </tr> 
           <tr>
         <td>8</td>
@@ -173,11 +191,13 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Dataflow Automation and how to use how to use this to integrate data into Envizi</td>
         <td>45mins</td>
         <td><a href="./125-data-flow-automation-session">Link</a></td>
+        <td></td>
    </tr> 
            <tr>
         <td>9</td>
         <td colspan="3"><b>BREAK</b></td>
         <td>15 mins</td>
+        <td></td>
         <td></td>
     </tr> 
     <tr>
@@ -187,6 +207,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
         <td>15 mins</td>
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a></td>
+        <td></td>
     </tr>
     <tr>
         <td>11</td>
@@ -195,6 +216,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Capture data manually through Data capture feature of Issue Management</td>
         <td>15 mins</td>
         <td><a href="./131-Capture-data-through-issue-management">Link</a></td>
+        <td></td>
    </tr>   
        <tr>
         <td>12</td>
@@ -202,6 +224,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>Data Monitoring, Health & Issue Management</td>
         <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
         <td>30 mins</td>
+        <td></td>
         <td></td>
     </tr>
 </table>   
@@ -214,42 +237,49 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <th>Topic</th>
         <th>Type</th>
         <th>Link</th>
+        <td></td>
     </thead>
     <tr>
         <td>1</td>
         <td>Creating Contacts and Users</td>
         <td><strong>Lab</strong></td>
         <td><a href="./162-Creating-Contacts-and-Users-using-template">Link</a></td>
+        <td></td>
    </tr>
     <tr>
         <td>2</td>
         <td>Account Style</td>
         <td><strong>Guide</strong></td>
         <td><a href="./203-account-style-link">Link</a></td>
+        <td></td>
    </tr>
     <tr>
         <td>3</td>
         <td>Connectors & Templates </td>
         <td><strong>Guide</strong></td>
         <td><a href="./204-connectors">Link</a></td>
+        <td></td>
    </tr>
     <tr>
         <td>4</td>
         <td>Important Links</td>
         <td><strong>Info</strong></td>
         <td><a href="./205-Important-Links">Link</a></td>
+        <td></td>
    </tr>
     <tr>
         <td>5</td>
         <td>Create Custom Emission Factors</td>
         <td><strong>Lab</strong></td>
         <td><a href="./172-Custom-Emission-Factors">Link</a></td>
+        <td></td>
    </tr>    
     <tr>
         <td>6</td>
         <td>PowerReport Developer</td>
         <td><strong>Info</strong></td>
         <td><a href="./351-power-report-developer">Link</a></td>
+        <td></td>
    </tr>      
 </table>
 
