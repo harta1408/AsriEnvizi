@@ -53,29 +53,9 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
         <td></td>
     </tr> 
-    <tr>
-        <td>4</td>
-        <td><b>Lab 7.0</b></td>
-        <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
-        <td>Explore Sustainability Reporting Manager</td>
-        <td>30 mins</td>
-        <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
-        <td>IT & ESG Team</td>
-    </tr> 
-    <tr>
-        <td>5</td>
-        <td>Session</td>
-        <td>Identify Industry specific Org hierarchy using the template provided</td>
-        <td>Provide a sample org hierarchy and ask the team to understand how should organization hierarchy generally looks like</td>
-        <td>30 mins</td>
-        <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
-        <td>IT & ESG Team</td>
-    </tr>  
-    <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td><td></td>  
-    </tr>
+     </tr>
         <tr>
-        <td>6</td>
+        <td>4</td>
         <td><b>Session</b></td>
         <td>Scope 1 & 2</td>
         <td>Understanding Scope 1 & Scope 2</td>
@@ -84,7 +64,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td>ALL</td>
     </tr>   
        <tr>
-        <td>7</td>
+        <td>5</td>
         <td><b>Session</b></td>
         <td>Managing Scope 3 </td>
         <td>Unsestanding Scope 3</td>
@@ -92,15 +72,8 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
         <td>ALL</td>
    </tr> 
-    <tr>
-        <td>8</td> 
-        <td colspan="3"><b>BREAK</b></td>
-        <td>15 mins</td>
-        <td></td>
-        <td></td>
-    </tr> 
-   <tr>
-        <td>9</td>
+      <tr>
+        <td>6</td>
        <td>Session</td>
         <td>Data Management Overview</td>
         <td>Groups, Locations & Account (Account Styles)</td>
@@ -108,6 +81,34 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
        <td>ALL</td>
     </tr>
+    <tr>
+        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td><td></td>  
+    <tr>
+        <td>7</td>
+        <td><b>Lab 7.0</b></td>
+        <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
+        <td>Explore Sustainability Reporting Manager</td>
+        <td>30 mins</td>
+        <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
+        <td>IT & ESG Team</td>
+    </tr> 
+    <tr>
+        <td>8</td>
+        <td>Session</td>
+        <td>Identify Industry specific Org hierarchy using the template provided</td>
+        <td>Provide a sample org hierarchy and ask the team to understand how should organization hierarchy generally looks like</td>
+        <td>30 mins</td>
+        <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
+        <td>IT & ESG Team</td>
+    </tr>  
+    <tr>
+        <td>9</td> 
+        <td colspan="3"><b>BREAK</b></td>
+        <td>15 mins</td>
+        <td></td>
+        <td></td>
+    </tr> 
+
     <tr>
         <td>10</td>
         <td>QUIZ</td>
