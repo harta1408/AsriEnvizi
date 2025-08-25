@@ -71,14 +71,14 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
         <td>ALL</td>
    </tr> 
-    <tr>
+   <tr>
         <td>6</td>
-       <td>Session</td>
+        <td>Session</td>
         <td>Data Management Overview</td>
         <td>Groups, Locations & Account (Account Styles)</td>
         <td>30 mins</td>
         <td></td>
-       <td>ALL</td>
+        <td>ALL</td>
     </tr>
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOMA</td><td></td>  
@@ -108,7 +108,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
         <td></td>
         <td></td>
     </tr> 
-
     <tr>
         <td>10</td>
         <td>QUIZ</td>
