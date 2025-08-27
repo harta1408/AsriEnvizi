@@ -287,6 +287,6 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
 
 1. The template Excel files mentioned in the labs are available in the shared Box folder with the same directory structure. Get the Box folder link from your instructor.
 2. For zoom virtual meeting can be found  <a href="https://us06web.zoom.us/j/83265472648?pwd=zUkGVIQJ0b08bBqBf86tn2b2bUC05K.1">here</a>
-3. Resource <a href="https://drive.google.com/drive/folders/16bvTaV3hOGN3hfANo-1yuiIkq0cXNu7I?usp=sharing">Google Drive</a>
+3. Resource <a href="https://drive.google.com/drive/folders/1kLZWx3V9mRHZk-XI4S0aBKir86brP0R5?usp=sharing">Google Drive</a>
 4. Beri kami masukan   dan  <a href="https://forms.gle/Wpp4xhK89Bgw1dTb9">Training Envizi</a>
 
