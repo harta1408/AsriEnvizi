@@ -13,7 +13,7 @@ ASRI Connect adalah aplikasi yang dipergunakan untuk mempermudah inputan data ke
 ## AGILE
 <a href="https://agile.co.id">PT. Anagile Kharisma Utama</a> atau dikenal dengan Brand **Agile Solution**, merupakan BP (Business Partner) IBM, dan dipercaya IBM untuk memasarkan berbagai produk seperti IBM Envizi, Maximo dsb.
 
-## Pelatihan Envizi @BUMA 27 - 28 Agustus 2025
+## Pelatihan Envizi @OIKN 17 - 20 Juni 2026
 
 <table>
     <thead>
